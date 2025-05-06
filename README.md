@@ -5,4 +5,4 @@ the Tx should beeps from low to high tone depending on the strength of the Rx si
 Haptic uses to display the maximum signal level.
 To clear saved Min and Max signal levels press and hold enther btn.
 
-Tag: EdgeTx Opentx Rx Search Fiender Resiver Locator 
+[Video-Example](https://youtube.com/shorts/yVMb1DFewpY?feature=share)
