@@ -1,6 +1,6 @@
 # EdgeTx Rx Search
 
-A tool for finding lost ultra-light mini drones without built-in beepers. Also suitable for larger ones.
+A tool for finding lost FPV ultra-light mini drones and tiny whoops without built-in beepers. Also suitable for larger ones.
 
 This simple LUA stores and outputs the low and high signal level from the receiver and based on these levels, 
 the Tx should beeps from low to high tone depending on the strength of the Rx signal.
